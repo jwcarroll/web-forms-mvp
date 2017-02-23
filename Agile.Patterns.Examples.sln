@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agile.WebForms", "Agile.WebForms\Agile.WebForms.csproj", "{962DC65B-D7BA-455D-89A6-CA6866DB941B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agile.Patterns", "Agile.Patterns\Agile.Patterns.csproj", "{368BCC2A-EA06-4FAA-B48D-25A4CE40B24E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agile.Calculator", "Agile.Calculator\Agile.Calculator.csproj", "{81EB4085-3F5D-44F0-BC93-5F75027CD686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agile.Patterns.Test", "Agile.Patterns.Test\Agile.Patterns.Test.csproj", "{1A1782D5-F0BE-4EDE-ABE8-A04F8B8A6BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962DC65B-D7BA-455D-89A6-CA6866DB941B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962DC65B-D7BA-455D-89A6-CA6866DB941B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962DC65B-D7BA-455D-89A6-CA6866DB941B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962DC65B-D7BA-455D-89A6-CA6866DB941B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{368BCC2A-EA06-4FAA-B48D-25A4CE40B24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368BCC2A-EA06-4FAA-B48D-25A4CE40B24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368BCC2A-EA06-4FAA-B48D-25A4CE40B24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368BCC2A-EA06-4FAA-B48D-25A4CE40B24E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81EB4085-3F5D-44F0-BC93-5F75027CD686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81EB4085-3F5D-44F0-BC93-5F75027CD686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81EB4085-3F5D-44F0-BC93-5F75027CD686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81EB4085-3F5D-44F0-BC93-5F75027CD686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1782D5-F0BE-4EDE-ABE8-A04F8B8A6BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1782D5-F0BE-4EDE-ABE8-A04F8B8A6BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1782D5-F0BE-4EDE-ABE8-A04F8B8A6BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1782D5-F0BE-4EDE-ABE8-A04F8B8A6BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Agile.Patterns.Examples1.vsmdi
+	EndGlobalSection
+EndGlobal
